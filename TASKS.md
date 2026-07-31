@@ -17,9 +17,10 @@ Current-state photo taken 2026-04-24. Because the build has been idle for a whil
 
 ## 1. Anchor locker and outboard well — Manual §3.9
 
-- [x] Install bow tube, outboard well, and anchor locker
+- [x] Install bow tube, anchor locker, and outboard well configured for an ePropulsion eLite
 - [ ] Inspect the completed assemblies for full sealing, correct drainage, and inaccessible voids
-- [ ] Confirm the installed outboard-well doubler arrangement matches the eventual motor
+- [ ] Coat the interior of the motor well with graphite-filled epoxy
+- [ ] Leave the motor-well slots uncut until a motor is acquired
 
 ## 2. Mast trunk and doublers — Manual §3.10
 
@@ -124,21 +125,20 @@ Scheme: Atlantic Grey and Mediterranean White; no brightwork; white cabin top; g
 - [ ] Mask and apply Atlantic Grey and Mediterranean White finish coats
 - [ ] Apply deck and cockpit nonskid
 - [ ] Apply the vinyl boot stripe after sufficient paint cure
-- [ ] Finish centerboard, rudder blade, and rudder cheeks matte black
+- [x] Finish the centerboard and rudder blade
 - [ ] Allow full cure before bedding hardware
 
 ## 8. Centerboard — Manual §§5.2 and 5.4, modified controls
 
-The board is NACA 0012 with three layers of 6 oz glass per side and approximately 12 lb lead. Both controls are 2:1; the revised downhaul runs along the case to a low-friction ring.
+The finished board is NACA 0012 with three layers of 6 oz glass per side and approximately 12 lb lead. Both controls are 2:1; the revised downhaul runs along the case to a low-friction ring.
 
-- [ ] Backfill and form the trailing edge and tip
-- [ ] Confirm lead encapsulation, final weight, and balance
-- [ ] Install the Garolite pivot and control-line tubes
-- [ ] Bond the foil halves straight and twist-free
-- [ ] Apply three layers of 6 oz glass per side
-- [ ] Fair the NACA profile; make a straight, square trailing edge
-- [ ] Verify finished thickness in the actual trunk before coating
-- [ ] Apply and fair the graphite finish
+- [x] Backfill and form the trailing edge and tip
+- [x] Encapsulate the lead and complete the board structure
+- [x] Install the Garolite tubes
+- [x] Bond the foil halves straight and twist-free
+- [x] Apply three layers of 6 oz glass per side
+- [x] Fair the NACA profile and finish the trailing edge
+- [x] Verify finished thickness and complete the board finish
 - [ ] Fabricate pivot bushings and thrust washers
 - [ ] Install the pivot and confirm free movement without harmful play
 - [ ] Finalize and install the modified 2:1 uphaul and downhaul
@@ -149,13 +149,12 @@ The board is NACA 0012 with three layers of 6 oz glass per side and approximatel
 
 ## 9. Rudder, tiller, and transom fittings — Manual §5.3
 
-Two Allen A4017-51 pintles and two A4020S gudgeons are on hand. Use bonded G10 backing plates and through-bolts.
+The rudder blade is finished. The remaining rudder assembly requires fiberglass, a white or gray painted finish, and final assembly. Two Allen A4017-51 pintles and two A4020S gudgeons are on hand. Use bonded G10 backing plates and through-bolts.
 
-- [ ] Form the rudder trailing edge and tip; install Garolite tubes
-- [ ] Bond the foil halves straight and twist-free
-- [ ] Apply two layers of 6 oz glass per side; fair and finish matte black
-- [ ] Laminate and glass the rudder spacer
-- [ ] Laminate, shape, glass, and finish the tiller
+- [x] Complete and finish the rudder blade
+- [ ] Fiberglass the remaining rudder-head/assembly components, including cheeks, spacer, and tiller as applicable
+- [ ] Fair and sand the rudder assembly for paint
+- [ ] Select white or gray and paint the rudder assembly
 - [ ] Match the finished thickness of rudder, spacer, and tiller
 - [ ] Install sealed uphaul and downhaul attachments
 - [ ] Install the internal sheave, offset fairleads, CL257 breakaway cleat, and uphaul cleat
@@ -293,6 +292,7 @@ Planned: approximately 160 sq ft asymmetric, approximately 5-foot bowsprit, cont
 
 ## 17. Later / upgrades
 
+- [ ] If a motor is acquired, cut and seal the motor-well slots for the ePropulsion eLite installation
 - [ ] Add cup holders, tubing, and nylon ratchet clamps
 - [ ] Add a portable all-round anchor light
 - [ ] Evaluate an external masthead float
@@ -304,7 +304,7 @@ Planned: approximately 160 sq ft asymmetric, approximately 5-foot bowsprit, cont
 
 ## Open decisions and verifications
 
-- [ ] Outboard model and well-doubler orientation
+- [ ] Final rudder-assembly color: white or gray
 - [ ] Hidden backing plates before closing deck
 - [ ] Hatch and inspection-port sizes and locations
 - [ ] Centerboard bushing and thrust-washer dimensions

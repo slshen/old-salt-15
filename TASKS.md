@@ -4,91 +4,108 @@ Last updated: 2026-07-31
 
 This working checklist follows the July 20, 2026 manual where complete, but reflects the actual build order and agreed changes. Checked items are complete. Unchecked items remain or require verification.
 
+![Current build state: hull upright on trailer with cabin top stitched and coaming dry-fitted](images/current-build-state-2026-04-24.jpg)
+
+Current-state photo taken 2026-04-24. Because the build has been idle for a while, completed work that is not readily visible should be inspected rather than assumed.
+
 ## Confirmed starting point
 
-- [x] Hull, bulkheads, hull sides, and transom assembled
-- [ ] Verify completed seams have all specified fillets and 6 oz fiberglass tape
-- [ ] Inspect completed structure for gaps, voids, epoxy runs, unfairness, or twist
+- [x] Chapter 3 substantially completed, subject to the exceptions listed below
+- [x] Hull, bulkheads, hull sides, transom, deck, cabin sides, mast trunk, anchor locker, and outboard well assembled
+- [x] Bottom fiberglassed, faired, sanded, and coated with graphite-filled epoxy
+- [ ] Inspect older completed seams for gaps, voids, epoxy runs, unfairness, or incomplete tape before closing access
 
 ## 1. Anchor locker and outboard well — Manual §3.9
 
-- [ ] Select the outboard before positioning the well doublers
-- [ ] Drill, fit, bond, fillet, seal, and trim the fiberglass bow tube
-- [ ] Dry-fit and stitch the outboard-well pieces
-- [ ] Fillet and apply two layers of tape to all well seams
-- [ ] Install the foam and plywood doublers for the selected motor
-- [ ] Wrap the well with two layers of 6 oz glass, overlapping the bulkheads at least 3/4 inch
-- [ ] Cut and seal the well opening through the transom and bottom
-- [ ] Glass the foam wedge; eliminate water traps and unsealed voids
-- [ ] Install, fillet, and tape the anchor locker
-- [ ] Confirm the locker drains appropriately and cannot leak into sealed structure
+- [x] Install bow tube, outboard well, and anchor locker
+- [ ] Inspect the completed assemblies for full sealing, correct drainage, and inaccessible voids
+- [ ] Confirm the installed outboard-well doubler arrangement matches the eventual motor
 
 ## 2. Mast trunk and doublers — Manual §3.10
 
-- [ ] Laminate the mast-base pieces
-- [ ] Fit and bond the mast trunk to Bulkhead 4
-- [ ] Maintain mast-butt clearance at the internal fillets
-- [ ] Apply the specified exterior fillets and two layers of 6 oz tape
-- [ ] Install and fillet the Bulkhead 4 doublers
-- [ ] Verify trunk alignment before enclosing it
+- [x] Laminate and install mast base/step, mast trunk, and Bulkhead 4 doublers
+- [ ] Apply the remaining fiberglass tape to the mast step
+- [ ] Inspect mast-butt clearance, trunk alignment, fillets, and existing tape before closing access
 
 ## 3. Deck — Manual §3.11
 
-- [ ] Install and fillet the deck doublers
-- [ ] Glue the remaining deck-panel puzzle joints
-- [ ] Dry-fit the deck and verify contact with every bulkhead
-- [ ] Install inaccessible backing plates and finish compartments before closure
-- [ ] Bond the deck without unfairness or hull twist
-- [ ] Fillet and tape deck-edge and bulkhead-top joints
-- [ ] Inspect all sealed compartments before closing access
+- [x] Assemble and install deck and deck doublers
+- [ ] Inspect older deck joints and sealed compartments where access remains
+- [ ] Confirm all required inaccessible backing plates are installed before finishing the seat tops and cabin
 
 ## 4. Cabin, coaming, seats, and cabin top — Manual §§3.12–3.17
 
-- [ ] Glue and glass the cabin-side puzzle joints
-- [ ] Install the cabin sides symmetrically; fillet and tape their joints
-- [ ] Install coaming, window, seat, and portlight doublers
-- [ ] Fully coat, fillet, tape, and finish the seat-locker interiors
-- [ ] Install and fillet the cockpit coaming
-- [ ] Install the centerboard-trunk tripler
-- [ ] Apply five layers of 6 oz glass at the loaded upper trunk corner
-- [ ] Cut the seat-hatch openings
-- [ ] Inspect and straighten the centerboard trunk
-- [ ] Install and fillet both seat tops
-- [ ] Laminate and install the mast block
-- [ ] Install and fillet the cabin top
-- [ ] Install Bulkhead 3, aft-edge, and toaster-slot doublers
-- [ ] Cut and finish the toaster-slot opening
-- [ ] Install and fillet the cabin-top beams
+### Completed or substantially completed
+
+- [x] Assemble and install cabin sides
+- [x] Install centerboard-tank/trunk triplers
+- [x] Laminate and install mast block
+- [x] Stitch cabin top in position with zip ties
+- [x] Dry-fit cockpit coaming
+
+### Coaming
+
+- [ ] Trim and refine the coaming fit
+- [ ] Complete seat-locker coating, fillets, tape, and inaccessible finish work before bonding the coaming
+- [ ] Epoxy-bond the coaming
+- [ ] Apply the remaining coaming fillets and fiberglass tape
+
+### Seat tops and centerboard trunk
+
+- [ ] Inspect and sand the centerboard trunk where needed while access is open
+- [ ] Confirm the trunk is straight and the board will not bind
+- [ ] Cut any required seat-hatch openings
+- [ ] Install both seat tops
+- [ ] Apply the specified seat-top fillets and tape
+
+### Cabin top attachment
+
+- [ ] Confirm cabin-top fairness and fit before permanent bonding
+- [ ] Epoxy-bond the cabin top between the zip ties
+- [ ] Remove the zip ties after cure and fill their holes
+- [ ] Apply the remaining cabin-top fillets and fiberglass tape
+
+### Detail cabin top — none completed
+
+- [ ] Install the Bulkhead 3 doubler ring
+- [ ] Install the aft cabin-top doublers
+- [ ] Rough-cut the toaster-slot opening while preserving the required material near Bulkhead 3
+- [ ] Square the mast-trunk and opening edges
+- [ ] Fit and bond the toaster-slot edge doubler
+- [ ] Trim the toaster slot to its finished shape
+- [ ] Install and fillet the portlight doublers
+- [ ] Prepare sharp, flat exterior portlight mounting lands
 - [ ] Verify mast clearance through the completed opening and trunk
 
 ## 5. Final upper-hull laminate — Manual §§4.1–4.2
 
+- [ ] Install, fillet, and fiberglass-tape the cabin-top beams
 - [ ] Fill voids and repair incomplete exterior fillets
 - [ ] Radius specified exterior and interior corners to at least 1/2 inch
 - [ ] Fair deck edges and other long curves
 - [ ] Square and epoxy-backfill the coaming lip; no bright trim is planned
-- [ ] Apply at least one layer of 6 oz glass to every upper exterior surface
+- [ ] Apply at least one layer of 6 oz glass to the boat top, including cabin top, decks, and hull sides
 - [ ] Maintain at least 1 inch overlap onto existing laminate
 - [ ] Apply two epoxy fill coats at the green stage
 - [ ] Inspect and repair bubbles, wrinkles, dry glass, and poor overlaps
-- [ ] Fair the upper hull, deck, cabin, cockpit, and transom for primer
+- [ ] Fair and sand the upper hull, deck, cabin, cockpit, and transom for primer
 
 ## 6. Bottom and centerboard trunk — Manual §§4.3–4.7
 
-- [ ] Prepare safe rollover supports and invert the hull
-- [ ] Fair and symmetrically shape the bow and hull edges
-- [ ] Open, radius, and fiberglass the centerboard slot
-- [ ] Add small internal trunk-corner fillets without leaving runs
-- [ ] Glass the transom and bottom with 6 oz cloth
-- [ ] Add extra protective fiberglass at the bow
-- [ ] Install both skegs parallel; fillet and apply at least three layers of 6 oz glass
-- [ ] Build a sharp bottom-to-transom release edge
-- [ ] Fair the bottom without sanding into structural glass
-- [ ] Apply at least three graphite-filled epoxy bottom coats
-- [ ] Complete hard-to-reach interior structural fillets and tapes while inverted
-- [ ] Verify mast-beam joints have the specified fillets and two layers of tape
-- [ ] Remove remaining temporary bulkheads identified by the plans
-- [ ] Roll the boat upright
+Most inverted work is complete. No additional rollover is presently planned; remaining items should be completed with the boat upright unless inspection shows that safe access is impossible.
+
+- [x] Shape and fiberglass the bottom, transom, bow, and centerboard-slot opening
+- [x] Fair and sand the bottom
+- [x] Apply the graphite-filled epoxy bottom coating
+- [x] Install and initially fiberglass both skegs
+- [x] Return the boat upright
+- [ ] Finish the sharp bottom-to-transom release edge
+- [ ] Sand and clean up the centerboard trunk where needed
+- [ ] Apply one additional layer of fiberglass to each skeg
+- [ ] Fair the skegs
+- [ ] Apply skeg fill coats
+- [ ] Sand the skegs to final bottom-finish condition
+- [ ] Inspect prior hard-to-reach interior fillets and tapes; correct only identified omissions
 
 ## 7. Primer, paint, nonskid, and stripe — Manual §§4.8–4.9
 

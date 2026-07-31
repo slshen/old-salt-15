@@ -168,14 +168,18 @@ The rudder blade is finished. The remaining rudder assembly requires fiberglass,
 
 ## 10. Hatches, ports, drainage, and deck hardware
 
-- [ ] Fabricate the main piano-hinged hatch or lid
-- [ ] Fit, gasket, latch, bed, and retain all hatches and inspection ports
+- [ ] Fabricate and dry-fit the main hatch or lid
+- [ ] Ask the other builders or designer-connected shop manager for the preferred piano-hinge installation method
+- [ ] Prepare a completely flat hinge-mounting surface so the piano hinge will not bind
+- [ ] Fit, align, drill, seal, bed, and fasten the piano hinge
+- [ ] Cycle the hatch through its full movement and correct any hinge binding
+- [ ] Fit and install the slam latches
+- [ ] Fit, gasket, latch, bed, and retain all remaining hatches and inspection ports
 - [ ] Fit and seal cabin portlights
-- [ ] Install hull drain fitting and tethered plug; carry an exact spare
-- [ ] Install cockpit drains/scuppers, tubing, and clamps
-- [ ] Install and back the bow eye
-- [ ] Install and back bow and stern mooring strong points
-- [ ] Install secure crew handholds
+- [ ] Install, seal, and test the Andersen automatic cockpit bailer
+- [x] Confirm no additional hull or cockpit drains are included in the design
+- [x] Confirm no conventional bow eye is included; use the bow-tube Dyneema loop instead
+- [ ] Install and back the stern mooring strong points
 - [ ] Seal fastener holes through plywood and bed serviceable hardware
 - [ ] Isolate dissimilar metals, particularly at the carbon mast
 
@@ -197,8 +201,11 @@ Planned: full-width traveler; 6:1 triple/triple mainsheet with 57 mm blocks and 
 The manual's sail section is incomplete. The boat uses the boomless tanbark Old Salt V-1 sail.
 
 - [ ] Inspect both carbon-mast sections and their joint
-- [ ] Dry-step the mast and verify base, trunk, partner, and slot clearances
-- [ ] Fit mast-base hardware and partner wedges/bearing/seal
+- [ ] Dry-fit the CNC-shaped lower plywood block to the mast butt
+- [ ] Trim or refine the lower block as required, then bond it to the bottom of the mast
+- [ ] Dry-fit the second CNC-shaped plywood block at the cabin-top mast partner
+- [ ] Align and bond the partner block to the mast at the correct height and orientation
+- [ ] Dry-step the mast and verify base, trunk, partner-block, and slot clearances
 - [ ] Install masthead halyard sheave and halyard exit fitting
 - [ ] Install and isolate other mast fittings
 - [ ] Measure the internal route and install the 6 mm Alpha SSR halyard

@@ -231,16 +231,19 @@ Planned: approximately 160 sq ft asymmetric, approximately 5-foot bowsprit, cont
 
 ## 14. Trailer and road transport — Launch critical
 
-- [ ] Fit trailer supports to the finished hull
-- [ ] Fit and pad the bow stop and winch stand
-- [ ] Install winch strap and independent bow safety restraint
+- [x] Fit the boat to the trailer and confirm it rides adequately
+- [x] Verify the trailer winch and winch strap are serviceable
+- [x] Install a temporary line through the bow tube
+- [ ] Replace the temporary bow-tube line with a properly spliced Dyneema loop
+- [ ] Fit or confirm an independent bow safety restraint
+- [ ] Confirm bow-stop and winch-stand padding will not damage the finished paint
 - [ ] Fit two paint-safe transom tie-downs
-- [ ] Verify trailer lights and wiring
-- [ ] Inspect tires, pressure, age, and lug torque
-- [ ] Service wheel bearings and seals; obtain a matched spare
+- [x] Verify trailer lights and wiring
+- [x] Confirm the trailer tires are in good condition
+- [x] Replace one wheel hub with a new hub
+- [ ] Obtain a matched backup hub or wheel-bearing and seal set
 - [ ] Build padded supports and restraints for the two-part carbon mast
-- [ ] Verify tongue weight, hull support, clearance, and ramp geometry
-- [ ] Perform a short local towing test and recheck restraints
+- [x] Verify adequate hull support, towing behavior, and road clearance
 
 ## 15. Safety equipment
 
@@ -266,31 +269,7 @@ Planned: approximately 160 sq ft asymmetric, approximately 5-foot bowsprit, cont
 - [ ] Anchor and rode suited to expected use
 - [ ] Secure, capsize-accessible emergency-equipment stowage
 
-## 16. Commissioning and first launch
-
-### Dry commissioning
-
-- [ ] Torque-check and witness-mark critical fasteners
-- [ ] Verify all clevis pins, split rings, and retainers
-- [ ] Inspect and leak-test penetrations, trunk, well, drain, and bow tube
-- [ ] Verify hatch closures and seals
-- [ ] Rehearse mast stepping, rigging, and derigging
-- [ ] Test centerboard and rudder controls under simulated load
-- [ ] Check that control lines cannot foul crew, tiller, or mainsheet
-- [ ] Establish capsize recovery, reboarding, and equipment-stowage plans
-
-### First water test
-
-- [ ] Choose sheltered water, light air, recovery help, and little traffic
-- [ ] Launch without the spinnaker
-- [ ] Check immediately for leaks and verify trim
-- [ ] Test centerboard, rudder, sail, downhaul, mainsheet, and traveler
-- [ ] Practice depowering the boomless sail
-- [ ] Practice capsize recovery and reboarding in controlled conditions
-- [ ] Inspect structure, fittings, coatings, and line leads ashore
-- [ ] Retorque or adjust hardware and record defects below
-
-## 17. Later / upgrades
+## 16. Later / upgrades
 
 - [ ] If a motor is acquired, cut and seal the motor-well slots for the ePropulsion eLite installation
 - [ ] Add cup holders, tubing, and nylon ratchet clamps

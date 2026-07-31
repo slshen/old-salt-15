@@ -80,6 +80,10 @@ Current-state photo taken 2026-04-24. Because the build has been idle for a whil
 ## 5. Final upper-hull laminate — Manual §§4.1–4.2
 
 - [ ] Install, fillet, and fiberglass-tape the cabin-top beams
+- [ ] Sand and fair the cockpit sole
+- [ ] Fiberglass the cockpit sole
+- [ ] Complete cockpit-sole fillets where needed
+- [ ] Apply fiberglass tape to the cockpit-sole joints
 - [ ] Fill voids and repair incomplete exterior fillets
 - [ ] Radius specified exterior and interior corners to at least 1/2 inch
 - [ ] Fair deck edges and other long curves
@@ -205,11 +209,20 @@ The manual's sail section is incomplete. The boat uses the boomless tanbark Old 
 - [ ] Hoist ashore and verify hoist, downhaul range, and sheet geometry
 - [ ] Mark useful settings and add mast-entry chafe protection
 
-## 13. Optional asymmetric spinnaker — Before regular use
+## 13. Optional asymmetric spinnaker — Later / retrofit
 
 Planned: approximately 160 sq ft asymmetric, approximately 5-foot bowsprit, continuous 7 mm sheets, mainly for light air.
 
 - [ ] Decide whether the spinnaker is in the first-launch scope
+- [ ] Cut out the circular spinnaker-chute opening near the bow
+- [ ] Fit and epoxy-bond the chute doubler
+- [ ] Seal, fillet, tape, and finish the chute opening as required
+- [ ] Select and procure a suitable tube for the under-deck retrieval roller; details can remain open until the spinnaker retrofit
+- [ ] Fabricate the retrieval roller using the supplied kit end pieces
+- [ ] Mount the roller in the shelf area beneath the bow deck so the kite passes smoothly through the chute
+- [ ] Trim the lower half of a windsurf mast to serve as the bowsprit socket
+- [ ] Fit, align, bond, fillet, tape, and reinforce the bowsprit socket in the bow
+- [ ] Confirm the upper windsurf-mast section fits and functions as the removable bowsprit
 - [ ] Review bowsprit, tack, masthead, and mast-support loads
 - [ ] Install bowsprit supports, bobstay if required, and tack controls
 - [ ] Install masthead block, halyard, and retrieval system
